@@ -1,0 +1,52 @@
+@charset "utf-8";
+@import url("Artículos.css");
+@import url("Inicio.css");
+@import url("Vídeos.css");
+header{
+	margin: 0 auto;
+	display: table;
+}
+.Cabecera {
+	margin: 0 auto;
+	vertical-align: middle;
+}
+body {
+	background-image: url("Página web/1618067.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+nav{
+	width: 1331px;
+	height: 86px;
+	margin: 0 auto;
+	background-image: url("Página web/Menú.png");
+	background-position: center center;
+}
+.Divisor {
+	margin-top: 0%;
+	height: 86px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 1329px;
+	margin-left: 4px;
+}
+.Apartado{
+	height: 86px;
+	vertical-align: middle;
+	display: table-cell;
+}
+.Imagen{
+	display: block;
+}
+.Logos{
+    height: 150px;
+    width: 879px;
+    margin: 10px auto;
+}
+.Logos2{
+    float: left;
+	margin-right: 93px;
+}
+

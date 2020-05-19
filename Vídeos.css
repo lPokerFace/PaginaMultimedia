@@ -1,0 +1,17 @@
+@charset "utf-8";
+.Video{
+	background-image: url("Página web/Vídeos.png");
+	background-size:  cover;
+	height: 450px;
+	width: 800px;
+	margin: 10px auto;
+}
+.Video2{
+	height: 438px;
+	width: 786px;
+	margin-top: 4px;
+	margin-left: 5px;
+}
+.Video3{
+	size
+}
