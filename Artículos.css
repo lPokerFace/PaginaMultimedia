@@ -1,0 +1,35 @@
+@charset "utf-8";
+.PrincipalArticulos{
+	background-image: url("Página web/PanelEscrituraArtículos.png");
+	background-position: center center;
+	height: 856px;
+	width: 925px;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+.PanelEscrituraArticulos{
+    position: relative;
+    width: 253px;
+    height: 628px;
+    left: 55px;
+    top: 50px;
+    font-family: Gabriola;
+    font-size: 30px;
+    font-weight: bold;
+    font-variant: normal;
+    font-style: normal;
+	line-height: 30px;
+}
+.TituloArticulos{
+	width: 253px;
+	position: relative;
+	top: 72px;
+	left: 55px;
+	font-size: 45px;
+	font-family: Gabriola;
+    font-weight: bold;
+    font-variant: normal;
+    font-style: normal;
+	line-height: 30px;
+	text-align: center;
+}
