@@ -1,0 +1,53 @@
+@charset "utf-8";
+.Login{
+	width: 231px;
+	height: 250px;
+	background-color: aliceblue;
+	float: left;
+}
+.ParteAlta{
+	margin: 10px auto;
+	width: 1331px;
+	height: 250px;
+}
+.PresentacionTemas{
+	margin-left: 5px;
+	width: 1095px;
+	height: 250px;
+	background-color: aliceblue;
+	float: left;
+}
+.Cuerpo {
+	margin: 0px auto;
+	width: 1331px;
+	height: 900px;
+}
+.panelIzquierdo{
+	width: 231px;
+	height: 900px;
+	background-color: aliceblue;
+	float: left;
+}
+.temasForos{
+	width: 1095px;
+	height: 298px;
+	margin-left: 5px;
+	background-color: aliceblue;
+	float: left;	
+}
+.temasHistoria{
+	width: 1095px;
+	height: 298px;
+	margin-top: 3px;
+	margin-left: 5px;
+	background-color: aliceblue;
+	float: left;	
+}
+.temasDebates{
+	width: 1095px;
+	height: 298px;
+	margin-top: 3px;
+	margin-left: 5px;
+	background-color: aliceblue;
+	float: left;	
+}

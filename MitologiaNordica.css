@@ -30,7 +30,6 @@ nav{
 	background-position: center center;
 	background-repeat: no-repeat;
 	width: 1329px;
-	margin-left: 4px;
 }
 .Apartado{
 	height: 86px;
@@ -39,6 +38,7 @@ nav{
 }
 .Imagen{
 	display: block;
+	margin-right: 1px;
 }
 .Logos{
     height: 150px;

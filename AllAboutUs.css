@@ -1,0 +1,14 @@
+@charset "utf-8";
+.miembro{
+	margin: 5px auto;
+	width: 1100px;
+	height: 350px;
+	background-color: aliceblue;
+}
+.imagen{
+	height: 300px;
+	margin-left: 25px;
+	margin-top: 25px;
+	width: 300px;
+	background-color: aqua;
+}
